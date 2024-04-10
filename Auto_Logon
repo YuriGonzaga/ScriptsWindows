@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"AutoAdminLogon"="1"
+"DefaultUserName"="seu_nome_de_usuario"
+"DefaultPassword"="sua_senha"
+"DefaultDomainName"="WORKGROUP"
